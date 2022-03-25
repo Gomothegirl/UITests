@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b607174-802f-4508-8631-1fd222976237" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefs/Todos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestRunner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Runner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/AddItem.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/CrossItemOff.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/DeleteItem.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="26ouqnQgUcHutODGm3sA3rJTulp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.TestRunners">
+    <configuration name="Feature: Todos" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Todos.feature" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner.TestRunner" />
+      <module name="UITestTask" />
+      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Todos" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Add Item To Todo List" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Todos.feature" />
+      <module name="UITestTask" />
+      <option name="NAME_FILTER" value="^Add Item To Todo List$" />
+      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Add Item To Todo List$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Add Item To Todo List" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UITestTask" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestRunners" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner.TestRunner" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestRunners" />
+      <option name="MAIN_CLASS_NAME" value="TestRunners.TestRunners" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: Todos" />
+      <item itemvalue="Cucumber Java.Scenario: Add Item To Todo List" />
+      <item itemvalue="TestNG.TestRunners" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestRunners" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b607174-802f-4508-8631-1fd222976237" name="Default Changelist" comment="" />
+      <created>1648102452642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648102452642</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648123228057">
+      <screen x="0" y="0" width="1536" height="742" />
+    </state>
+    <state x="223" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.742@0.0.1536.742" timestamp="1648123228057" />
+    <state x="498" y="162" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1648121593021">
+      <screen x="0" y="0" width="1536" height="742" />
+    </state>
+    <state x="498" y="162" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.742@0.0.1536.742" timestamp="1648121593021" />
+    <state width="1493" height="482" key="GridCell.Tab.0.bottom" timestamp="1648234844917">
+      <screen x="0" y="0" width="1536" height="742" />
+    </state>
+    <state width="1493" height="482" key="GridCell.Tab.0.bottom/0.0.1536.742@0.0.1536.742" timestamp="1648234844917" />
+    <state width="1493" height="482" key="GridCell.Tab.0.center" timestamp="1648234844917">
+      <screen x="0" y="0" width="1536" height="742" />
+    </state>
+    <state width="1493" height="482" key="GridCell.Tab.0.center/0.0.1536.742@0.0.1536.742" timestamp="1648234844917" />
+    <state width="1493" height="482" key="GridCell.Tab.0.left" timestamp="1648234844917">
+      <screen x="0" y="0" width="1536" height="742" />
+    </state>
+    <state width="1493" height="482" key="GridCell.Tab.0.left/0.0.1536.742@0.0.1536.742" timestamp="1648234844917" />
+    <state width="1493" height="482" key="GridCell.Tab.0.right" timestamp="1648234844917">
+      <screen x="0" y="0" width="1536" height="742" />
+    </state>
+    <state width="1493" height="482" key="GridCell.Tab.0.right/0.0.1536.742@0.0.1536.742" timestamp="1648234844917" />
+  </component>
+</project>

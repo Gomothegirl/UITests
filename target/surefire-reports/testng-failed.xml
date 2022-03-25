@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [MyTestSuite]" parallel="tests">
+  <test thread-count="1" verbose="0" name="MacChrome(failed)" parallel="tests">
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="version" value="90.0"/>
+    <parameter name="platform" value="MacOS Big sur"/>
+    <classes>
+      <class name="TestRunner.TestRunner">
+        <methods>
+          <include name="runScenario" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- TestRunner.TestRunner -->
+    </classes>
+  </test> <!-- MacChrome(failed) -->
+</suite> <!-- Failed suite [MyTestSuite] -->
