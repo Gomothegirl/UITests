@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b607174-802f-4508-8631-1fd222976237" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefs/Todos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestRunner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Runner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/AddItem.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/CrossItemOff.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/DeleteItem.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefs/Todos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefs/Todos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/UITestTask.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjects/Todos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefs/AddItem.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -39,8 +39,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
   </component>
-  <component name="RunManager" selected="TestNG.TestRunners">
+  <component name="RunManager" selected="TestNG.TestRunner">
     <configuration name="Feature: Todos" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Todos.feature" />
@@ -125,11 +126,11 @@
     <list>
       <item itemvalue="Cucumber Java.Feature: Todos" />
       <item itemvalue="Cucumber Java.Scenario: Add Item To Todo List" />
-      <item itemvalue="TestNG.TestRunners" />
+      <item itemvalue="TestNG.TestRunner" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestRunners" />
+        <item itemvalue="TestNG.TestRunner" />
       </list>
     </recent_temporary>
   </component>

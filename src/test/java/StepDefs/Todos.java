@@ -16,10 +16,10 @@ import java.util.concurrent.TimeUnit;
 
 public class Todos {
 
-    /*@After
+    @After
     public void tearDown() {
         driver.quit();
-    }*/
+    }
 
     WebDriver driver;
 
